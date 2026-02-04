@@ -1,2 +1,3 @@
-Working demo video:
-https://youtube.com/shorts/pKZ3xb_AoV8?si=UHsCPPXkHvh6-zlI
+Working Demo Video (CAN-Based Collision Avoidance System):
+
+https://youtube.com/shorts/PuVEFsCeuo4?si=LiEMcaD9hCsknWEs
